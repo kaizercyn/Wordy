@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Client" type="Application" factoryName="Application" singleton="false">
+    <option name="MAIN_CLASS_NAME" value="client.ClientMain" />
+    <module name="2022-2_9328-fingrp5_javaINITIAL" />
+    <option name="PROGRAM_PARAMETERS" value="-ORBInitialHost localhost -ORBInitialPort 10000" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
